@@ -2,6 +2,8 @@
 
 Public version of the GitLab repository for the Master course "Special Lecture: Binary Systems in Astrophysics", held at Universität Innsbruck (2021-2022).
 
+THIS IS THE FIRST, INCOMPLETE VERSION. TO BE UPDATED
+
 **Content of the course: hands-on sessions**
 
 1. The Three-Body problem (including "Introduction to jupyter notebook")
