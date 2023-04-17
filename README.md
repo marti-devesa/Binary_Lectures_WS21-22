@@ -2,15 +2,16 @@
 
 Public version of the GitLab repository for the Master course "Special Lecture: Binary Systems in Astrophysics", held at Universität Innsbruck (2021-2022).
 
-THIS IS THE FIRST, INCOMPLETE VERSION. TO BE UPDATED
 
 **Content of the course: hands-on sessions**
 
-1. The Three-Body problem (including "Introduction to jupyter notebook")
+0. Introduction (on Notebooks, Git and Python)
 
-2. The Kepler Equation (including "Introduction to git")
+1. The Three-Body problem
 
-3. Lomb-Scargle (including "Introduction to python")
+2. The Kepler Equation 
+
+3. Lomb-Scargle 
 
 4. Phase dispersion minimisation (PDM)
 
