@@ -1,6 +1,6 @@
 # Binary Systems in Astrophysics
 
-Public version of the GitLab repository for the Master course "Special Lecture: Binary Systems in Astrophysics", held at Universität Innsbruck (2021-2022). The data required to perform each exercise is provided (either inside data.tar.xz or linked). All data files are obtained from public repositories, with referenced in the corresponding notebooks.
+Public version of the GitLab repository for the Master course "Special Lecture: Binary Systems in Astrophysics", held at Universität Innsbruck (2021-2022). The external data required to perform each exercise is provided (https://fileshare.uibk.ac.at/d/32d466b028424cffa212/). All data files are obtained from public repositories, referenced in the notebooks.
 
 
 **Content of the course: hands-on sessions**
